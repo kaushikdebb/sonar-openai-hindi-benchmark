@@ -16,7 +16,7 @@ This experiment was inspired by Meta's Large Concept Model (LCM) research, which
 ### Prerequisites
 - Python 3.8+
 - PyTorch
-- CUDA-capable GPU (recommended)
+- CUDA-capable GPU (Good to have)
 - OpenAI API key
 
 ### Installation
