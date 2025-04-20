@@ -34,8 +34,9 @@ pip install torch transformers openai scikit-learn pandas numpy matplotlib
 ```
 
 3. Set up OpenAI API key:
-   
+ ``` bash  
  Replace <OPEN_AI_KEY> in the script with your OpenAI API key
+```
  
 
 ## 📁 Project Structure
