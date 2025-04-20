@@ -101,10 +101,10 @@ If you use this code or findings in your research, please cite:
 
 ``` bash
 @misc{sonar_embeddings_comparison,
-  title={sonar-openai-hindi-bentchmark: Multilingual Performance Comparison},
+  title={sonar-openai-hindi-benchmark: Multilingual Performance Comparison},
   author={[Kaushik Deb]},
   year={2025},
-  url={https://github.com/kaushikdebb/sonar-openai-hindi-bentchmark.git}
+  url={https://github.com/kaushikdebb/sonar-openai-hindi-benchmark.git}
 }
 ```
 
