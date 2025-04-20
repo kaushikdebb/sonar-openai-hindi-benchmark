@@ -1,4 +1,4 @@
-# SONAR vs OpenAI Embeddings: Multilingual Performance Comparison
+# 🧠 SONAR vs OpenAI Embeddings: Multilingual Performance Comparison
 
 This project compares the performance of Meta's SONAR embeddings against OpenAI's text-embedding-3-large model in a multilingual context, specifically focusing on English-Hindi sentence translations.
 
